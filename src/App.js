@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-        <h1>deployes successfully</h1>
+        <h1>Confirmed working</h1>
       </div>
     </div>
   );
